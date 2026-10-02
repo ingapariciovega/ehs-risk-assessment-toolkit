@@ -1,0 +1,26 @@
+{
+  "template_only": true,
+  "id": null,
+  "date": null,
+  "site": null,
+  "task": null,
+  "people_exposed": null,
+  "hazardous_situation": null,
+  "credible_consequence": null,
+  "existing_controls": [],
+  "evidence_reviewed": [],
+  "risk_criteria_reference": null,
+  "proposed_actions": [
+    {
+      "action": null,
+      "owner_role": null,
+      "due_date": null,
+      "implementation_evidence": null,
+      "effectiveness_evidence": null,
+      "reviewer": null,
+      "status": "proposed"
+    }
+  ],
+  "approval": null,
+  "next_review": null
+}
